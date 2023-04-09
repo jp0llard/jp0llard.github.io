@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+In the "With Other People" interview series I share conversations with friends and colleagues who have been instrumental in helping me survive and thrive throughout my career in schools and cultural spaces. It is an opportunity to express gratitude for the difference they've made in my life, while also sharing practical advice for how they do their work in deeply collaborative ways. I hope that reading these interviews leaves you with a generative and momentum-filled feeling. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+You might be thinking, "Wait...is this a podcast?" Great question! Podcasts are a sound-based medium for storytelling that excludes many of Deaf and hard-of-hearing chosen family and colleagues. I decided to choose a medium that was more fully accessible to those being interviewed as well as those who engage with the conversations. 
