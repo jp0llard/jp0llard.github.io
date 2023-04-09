@@ -1,27 +1,15 @@
-# Minimal Mistakes remote theme starter
+# Website
+This is the code behind Jeanine Pollard's personal website. It uses Jekyll and Github Pages to generate the pages and is based on an open-source Minimal Mistakes theme. Jekyll generates webpages via a mixture of Markdown files (content) and config files for assembling the content. Most of the logic for the site can be found in the [original theme](https://github.com/mmistakes/minimal-mistakes) and the files in this repository just override certain configurations etc.
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+## Updating
+There are a few update patterns:
+- Adding new posts: add a new markdown file to the `_posts` directory like [any of these examples](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts).
+- Changing basic config (layout; sidebar content; etc.): directly edit the `_config.yml` file. For supported keys, check [default configuration](https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml) or [docs](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
+- Changing more advanced config (styling etc.): copy the relevant files from the [original theme](https://github.com/mmistakes/minimal-mistakes) (into the exact same file path) and edit them locally. They will override the originals.
 
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Resources
+- [Original repository generator](https://github.com/mmistakes/mm-github-pages-starter)
+- [Theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+- [Github pages](https://pages.github.com/)
+- [Jekyll](https://jekyllrb.com/)
+- [Markdown](https://kramdown.gettalong.org/quickref.html)
