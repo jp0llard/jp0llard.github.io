@@ -1,5 +1,3 @@
 main:
-  - title: "Conversations"
-    url: /posts/
   - title: "About"
     url: /about/
