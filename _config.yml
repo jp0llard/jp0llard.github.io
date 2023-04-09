@@ -59,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "About the author"
+  name   : "Jeanine Pollard"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Jeanine Pollard is a learning consultant and ASL interpreter in cultural and educational institutions. She dreams, designs, and builds creative learning experiences. With Other People conversation series is an extension of this work."
+  bio    : "I am a learning consultant and ASL interpreter in cultural and educational institutions. I dream, design, and build creative learning experiences. With Other People conversation series is an extension of this work."
   links:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
