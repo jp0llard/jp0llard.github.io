@@ -22,6 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   With Other People conversation series is an extension of this work.
 minimal_mistakes_skin: default
 search: false
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
@@ -57,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "About the author"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Jeanine Pollard is a learning consultant and ASL interpreter in cultural and educational institutions. She dreams, designs, and builds creative learning experiences. With Other People conversation series is an extension of this work."
   links:
