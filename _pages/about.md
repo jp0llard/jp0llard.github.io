@@ -21,4 +21,4 @@ The kinds of work that I do with partners to build trust, capacity, and confiden
 - Sustainable Community Engagement/Audience Building
 - Project Management
 
-Want to connect? We’re here for it! Fill out this form to [contact us](https://docs.google.com/forms/d/e/1FAIpQLScYUwz1dyZwHYLtPj62WUYyKYm-JzbmtO6W9y--lScmc1JzGA/viewform?usp=sf_link).
+Want to connect? I'm here for it! Fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScYUwz1dyZwHYLtPj62WUYyKYm-JzbmtO6W9y--lScmc1JzGA/viewform?usp=sf_link).
