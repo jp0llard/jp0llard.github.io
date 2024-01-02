@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+header:
+    image: "/assets/images/Asset 3.png"
 ---
 
 
