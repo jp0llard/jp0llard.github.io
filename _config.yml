@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "/assets/images/Asset 3.png"
-logo:
+title: 
+logo: "/assets/images/Asset 3.png"
 email:
 # description for SEO -- for sidebar see author-bio below
 description: "I am a Black, disabled, hearing educator, access worker, and ASL interpreter. I plan, design, and build learning experiences. With Other People is my care-filled freelance creative practice."
