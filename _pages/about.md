@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "About"
 ---
 
 <figure>
