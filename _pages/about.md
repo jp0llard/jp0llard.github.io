@@ -3,6 +3,19 @@ permalink: /about/
 title: "About"
 ---
 
-The “With Other People” series is co-created with those people who helped me to survive and to thrive in my career. It is an opportunity to express gratitude for the difference they’ve made in my life. But it is also a space to share practical advice for how they do their work in deeply collaborative ways. As you read these interviews, I hope you experience the warm and generative buzzing I felt while editing the conversations. 
+With Other People is a space for:
+- Deaf and disabled people to thrive
+- Creative resistance to the status quo
+- Alignment of intentions, actions, and outcomes
 
-You might be thinking, “Wait…is this a podcast?” Great question! Podcasts are sound based format for storytelling that excludes many of my Deaf friends and chosen family. Instead of a podcast, I chose to create a text-based interview series. This medium is more fully accessible to the people I plan to interview as well as those who I hope will engage with the conversations. 
+How we work (our process) is equally important as what we produce (our product).
+
+Here are some of the kinds of work that I do with partners to build trust, capacity, and confidence in building inclusive learning environments:
+- Access Accommodation Planning
+- Training/Workshop Facilitation 
+- Custom Resource Creation
+- Evaluation
+- Sustainable Community Engagement/Audience Building
+- Project Management
+
+Want to connect? We’re here for it! Fill out this form to [contact us](https://docs.google.com/forms/d/e/1FAIpQLScYUwz1dyZwHYLtPj62WUYyKYm-JzbmtO6W9y--lScmc1JzGA/viewform?usp=sf_link).
