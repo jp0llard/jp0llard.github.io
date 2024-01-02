@@ -1,11 +1,9 @@
 ---
 permalink: /about/
 title: "About"
-subheader:
-    image: "/assets/images/Asset 3.png"
 ---
 
-
+image: "/assets/images/Asset 3.png"
 
 With Other People is a space for:
 - Deaf and disabled people to thrive
