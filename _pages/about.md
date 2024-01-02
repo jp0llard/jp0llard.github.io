@@ -1,7 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-image: "/assets/images/Asset 3.png"
+subheader:
+    image: "/assets/images/Asset 3.png"
 ---
 
 
