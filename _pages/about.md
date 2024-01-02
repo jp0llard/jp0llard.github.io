@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
+
+
 With Other People is a space for:
 - Deaf and disabled people to thrive
 - Creative resistance to the status quo
@@ -10,7 +12,7 @@ With Other People is a space for:
 
 How we work (our process) is equally important as what we produce (our product).
 
-Here are some of the kinds of work that I do with partners to build trust, capacity, and confidence in building inclusive learning environments:
+The kinds of work that I do with partners to build trust, capacity, and confidence in building inclusive learning environments includes:
 - Access Accommodation Planning
 - Training/Workshop Facilitation 
 - Custom Resource Creation
